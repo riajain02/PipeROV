@@ -1,0 +1,5 @@
+obtained from:
+
+https://stackoverflow.com/questions/13386681/streaming-data-with-python-and-flask
+
+https://gist.github.com/jelmervdl/5a9861f7298907179c20a54c0e154560
